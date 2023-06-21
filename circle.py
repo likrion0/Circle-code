@@ -20,5 +20,5 @@ turtle.pendown()
 # Dibuja el círculo
 draw_circle(radius)
 
-# Cierra la ventana de dibujo al hacer clic en ella
+# Close the window
 turtle.exitonclick()
